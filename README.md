@@ -1,6 +1,6 @@
 ---
 title: Using Telepresence
-description: 'telepresence is a tool to ease the process of developing and debugging services locally, while proxying the service to a remote Kubernetes cluster. Using telepresence allows you to use custom tools, such as a debugger and IDE, for a local service and provides the service full access to ConfigMap, secrets, and the services running on the remote cluster.'
+description: telepresence is a tool to ease the process of developing and debugging services locally, while proxying the service to a remote Kubernetes cluster. Using telepresence allows you to use custom tools, such as a debugger and IDE, for a local service and provides the service full access to ConfigMap, secrets, and the services running on the remote cluster.
 
 Files to be download/install:
 1.Install telepresence locally
